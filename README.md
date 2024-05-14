@@ -456,9 +456,9 @@ contact .html
 
 
 ## OUTPUT:
-ph1.png
-ph2.png
-ph3.png
-ph44.png
+![alt text](ph1.png)
+![alt text](ph2.png)
+![alt text](ph3.png)
+![alt text](ph44.png)
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
